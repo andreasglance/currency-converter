@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #f7f7f7;
+    color: #222222;
+}
+
+.row {
+    margin-top: 1rem;
+}
+
+.fas {
+    font-size: 1.5rem;
+    color: #7da2a9;
+}
+
+.exchange-icon {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.button {
+    background: #7da2a9;
+    color: #ffffff;
+    display: inline-block;
+    padding: 1rem;
+    font-weight: bold;
+}
